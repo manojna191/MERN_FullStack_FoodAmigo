@@ -6,6 +6,10 @@
 - For more info please check the PPT
  - [PPT_FoodAmigo](https://drive.google.com/file/d/1uJuykdkJIspdHdOF5mpotiU1WI8ER4_7/view?usp=sharing)
  
+### Folders
+- **Root Reposotory:** Server code (Node.js|Express.js|MogoDB|Mongoose)
+- **./foodamigo:** Client code (React.js)
+
 ### Installation
  - clone the repository
  - type command `npm init`
